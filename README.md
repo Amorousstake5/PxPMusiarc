@@ -1,17 +1,16 @@
 # PxPMusiarc
 Just compile it with pyinstaller for an app, made tkinter
 ---
-import requests
-import json
-import pygame
-import os
-import tempfile
-import time
-import threading
-import tkinter as tk
-from tkinter import messagebox, ttk, filedialog
-from PIL import Image, ImageTk
-import xml.etree.ElementTree as ET
-from urllib.parse import quote
+<li>requests</li>
+<li>json</li>
+<li>pygameM</li>
+<li>tempfile</li>
+<li>time</li>
+<li>threading</li>
+<li>tkinter</li>
+<li>PIL</li>
+<li>xml.etree.ElementTree</li>
+<li>urllib.parse</li>
+
 ---
 Add these libraries before compiling, running the file!
