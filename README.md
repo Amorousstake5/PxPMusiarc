@@ -3,7 +3,7 @@ Just compile it with pyinstaller for an app, made with tkinter
 ---
 <li>requests</li>
 <li>json</li>
-<li>pygameM</li>
+<li>pygame</li>
 <li>tempfile</li>
 <li>time</li>
 <li>threading</li>
