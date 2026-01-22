@@ -14,3 +14,8 @@ Just compile it with pyinstaller for an app, made with tkinter
 
 ---
 Add these libraries before compiling, running the file!
+---
+## ScreenShots
+|ScreenShot1|ScreenShot2|
+|-----------|------------|
+|[!ScreenShot1(ScreenShot0.png)][!ScreenShot2(ScreenShot1.png)]|
