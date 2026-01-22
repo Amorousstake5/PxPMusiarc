@@ -18,4 +18,4 @@ Add these libraries before compiling, running the file!
 ## ScreenShots
 |ScreenShot1|ScreenShot2|
 |-----------|------------|
-|[!ScreenShot1(ScreenShot0.png)][!ScreenShot2(ScreenShot1.png)]|
+|[!ScreenShot1(ScreenShot0.jpeg)]|[!ScreenShot2(ScreenShot1.jpeg)]|
