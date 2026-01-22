@@ -1,5 +1,5 @@
 # PxPMusiarc
-Just compile it with pyinstaller for an app, made tkinter
+Just compile it with pyinstaller for an app, made with tkinter
 ---
 <li>requests</li>
 <li>json</li>
